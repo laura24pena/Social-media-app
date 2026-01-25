@@ -2,7 +2,7 @@ ArtCollab is an online platform designed to bring artists together in one shared
 
 This repository represents the Minimum Viable Product (MVP) developed as a semester-long project, with an emphasis on clean architecture, real-world workflows, and scalable design decisions.
 
-#Goal & MVP Scope
+##Goal & MVP Scope
 
 **Primary Goal:**
 Deliver a functional MVP that demonstrates full-stack web development concepts, including authentication, secure password handling, and frontend–backend integration.
