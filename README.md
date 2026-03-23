@@ -9,22 +9,22 @@ Art-Collab is an interactive web application designed to allow users to share, e
 
 **Technologies Used**
 
-React & Vite
-JavaScript
-CSS (Responsive Design)
-HTML
-MongoDB
+- React & Vite
+- JavaScript
+- CSS (Responsive Design)
+- HTML
+- MongoDB
 
 **Key Learnings**
 
-Importance of user experience in engagement
-How to build modular and reusable components
-Using AI to accelerate development while maintaining code ownership
-Iterating quickly to improve both functionality and design
+- Importance of user experience in engagement
+- How to build modular and reusable components
+- Using AI to accelerate development while maintaining code ownership
+- Iterating quickly to improve both functionality and design
 
 **Future Improvements**
 
-Add real-time collaboration features
-Integrate user authentication and profiles
+- Add real-time collaboration features
+- Integrate user authentication and profiles
 Implement AI-driven content recommendations
 Expand backend support for scalable data storage
